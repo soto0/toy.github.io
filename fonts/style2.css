@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Zona Pro';
+    src: local('Zona Pro ExtraBold'), local('Zona-Pro-ExtraBold'),
+        url('ZonaPro-ExtraBold.woff2') format('woff2'),
+        url('ZonaPro-ExtraBold.woff') format('woff'),
+        url('ZonaPro-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+  }
